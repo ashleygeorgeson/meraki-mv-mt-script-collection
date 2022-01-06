@@ -4,8 +4,8 @@ from datetime import datetime
 import time
 import requests
 
-meraki_api_key = ""
-cam_serial = ""
+meraki_api_key = "a8ee9f6f0181f0e34d7194e7610b902455d17cf4"
+cam_serial = "Q2PV-7XA7-ZWPA"
 
 
 def on_connect(client, userdata, flags, rc):
